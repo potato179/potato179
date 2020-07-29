@@ -8,5 +8,3 @@
   - My E-mail Address: hackg179@gmail.com
   - My Phone Number: +82-10-9972-7439
 - 🇰🇷 I live in Korea
-
-Yoonsung❤️

@@ -4,4 +4,4 @@
   - Connect me via Messenger: https://m.me/makerpotato179
   - My E-mail Address: hackg179@gmail.com
   - My Phone Number: +82-10-9972-7439   
-![potato179's github stats](https://github-readme-stats.vercel.app/api?username=potato179&theme=dark&show_icons=true)
+![potato179's github stats](https://github-readme-stats.vercel.app/api?username=potato179&theme=radical&card_width=100%&show_icons=true)

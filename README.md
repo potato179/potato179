@@ -1,6 +1,6 @@
 ### Hi there 👋   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato179&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=potato179)
+![potato179's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=potato179)
   - Facebook Profile: https://www.facebook.com/makerpotato179
   - Connect me via Messenger: https://m.me/makerpotato179
   - My E-mail Address: hackg179@gmail.com

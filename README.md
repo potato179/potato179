@@ -13,7 +13,7 @@ Oh hi there👋 Welcome:)
 
 ## I'm working for...
 - [NattakPhone](https://www.facebook.com/nattakphone)
-(You can buy the goods by clicking [here](https://marpple.shop/kr/nattakphone
+(You can buy the goods by clicking [here](https://marpple.shop/kr/nattakphone))
 - [Facebook group Galaxy User Community](https://www.facebook.com/groups/2476308982607493/)
 - [Facebook group AUC - Apple User Community](https://www.facebook.com/groups/267173041161551)
 

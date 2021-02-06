@@ -9,7 +9,7 @@ Oh hi there👋 Welcome:)
 - Who REALLY hates Windows
 - Who loves Apple and Linux
 - An iPhone repairman
-- >!Someone's boyfriend and loving Y*******
+- Someone's boyfriend and loving Y*******
 
 ## I'm working for...
 - [NattakPhone](https://www.facebook.com/nattakphone)

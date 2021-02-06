@@ -32,10 +32,10 @@ don't send DM via Instagram
 ## TMI
 <details>
   <summary>Click here to see</summary>
-  - Gender: Male
-  - Birthday: Sep. 14, 2006
-  - Height: 172cm or 68 Inch 
-  - Weight: 68kg or 137 Pounds
-  - Blood Type: B
-  - Phone in Use: iPhone 8
-</details>
+  - Gender: Male   
+  - Birthday: Sep. 14, 2006   
+  - Height: 172cm or 68 Inch    
+  - Weight: 68kg or 137 Pounds   
+  - Blood Type: B   
+  - Phone in Use: iPhone 8    
+</details>   

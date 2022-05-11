@@ -1,4 +1,4 @@
-# 커밋을 하세요
+# 커밋 를! 하는 나!
 
 ## Welcome to my workplace!
 

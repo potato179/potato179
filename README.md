@@ -7,9 +7,8 @@
 ![점검 서비스](https://user-images.githubusercontent.com/44293278/204171088-8dd646a6-e640-487c-b314-1d330f4d3581.png)
 
 # 폰도 팔지만 개발도 해요!
-## I ONLY LOVE VANILLA
-## I HATE TYPESCRIPT, REACT, VUE, NUST, BOOTSTRAP
-## ~~AND I THINK PYTHON IS GAYTHON~~
+## I ONLY LOVE VANILLA and I HATE TYPESCRIPT, REACT, VUE, NUST, BOOTSTRAP
+## ~~I THINK PYTHON IS GAYTHON~~
 [![GAY](https://img.youtube.com/vi/OF_5EKNX0Eg/0.jpg)](https://www.youtube.com/watch?v=OF_5EKNX0Eg)
 
 ## Connect with me

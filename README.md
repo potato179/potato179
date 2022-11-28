@@ -6,7 +6,11 @@
 ![수리의뢰 서비스](https://user-images.githubusercontent.com/44293278/204171083-5d28aa18-f8fe-41ea-8557-5101a4d0e66a.png)
 ![점검 서비스](https://user-images.githubusercontent.com/44293278/204171088-8dd646a6-e640-487c-b314-1d330f4d3581.png)
 
-#Welcome to my workplace!
+# 폰도 팔지만 개발도 해요!
+## I ONLY LOVE VANILLA
+## I HATE TYPESCRIPT, REACT, VUE, NUST, BOOTSTRAP
+## ~~AND I THINK PYTHON IS GAYTHON~~
+[![GAY](https://img.youtube.com/vi/OF_5EKNX0Eg/0.jpg)](https://www.youtube.com/watch?v=OF_5EKNX0Eg)
 
 ## Connect with me
 - Phone: +82-10-9972-7439
@@ -15,11 +19,6 @@
 or [Message me](https://m.me/makerpotato179)
 - [Instagram](https://www.instagram.com/seoulFixKing/)
 - [Discord community](https://discord.gg/ecsApMn)
-
-## I ONLY LOVE VANILLA
-## I HATE TYPESCRIPT, REACT, VUE, NUST, BOOTSTRAP
-## ~~AND I THINK PYTHON IS GAYTHON~~
-[![GAY](https://img.youtube.com/vi/OF_5EKNX0Eg/0.jpg)](https://www.youtube.com/watch?v=OF_5EKNX0Eg)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=potato179&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/potato179)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato179&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/potato179)

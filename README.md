@@ -1,3 +1,13 @@
+# フトスト 폰팔이들아!
+```console
+!!!이 문서는 폰팔이를 다루고 있습니다!!!
+!!!이 문서는 폰팔이를 다루고 있습니다!!!
+!!!이 문서는 폰팔이를 다루고 있습니다!!!
+!!!이 문서는 폰팔이를 다루고 있습니다!!!
+!!!이 문서는 폰팔이를 다루고 있습니다!!!
+!!!이 문서는 폰팔이를 다루고 있습니다!!!
+```
+
 ![Web 1920 – 2](https://user-images.githubusercontent.com/44293278/204171304-a70da00c-c7c8-45c4-a6a5-fb77b85ceefa.png)
 # DIMIGO Official Mobile Phone Repair & 폰팔이
 ![Web 1920 – 1](https://user-images.githubusercontent.com/44293278/204171033-f560e038-e1d5-43ca-bae1-f0ab12eaa362.png)

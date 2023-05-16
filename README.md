@@ -8,18 +8,15 @@
 !!!이 문서는 폰팔이를 다루고 있습니다!!!
 ```
 
-# DIMIGO Official Mobile Phone Repair & 폰팔이
+# DIMI Official Mobile Phone Repair & 폰팔이
 
 # 폰도 팔지만 개발도 해요!
-## I ONLY LOVE VANILLA and I HATE TYPESCRIPT, REACT, VUE, NUST, BOOTSTRAP
-## ~~I THINK PYTHON IS GAYTHON~~
 [![GAY](https://img.youtube.com/vi/OF_5EKNX0Eg/0.jpg)](https://www.youtube.com/watch?v=OF_5EKNX0Eg)
 
 ## Connect with me
 - Phone: +82-10-9972-7439
 - E-mail: hackg179@gmail.com
 - [Facebook](https://www.facebook.com/makerpotato179/)
-or [Message me](https://m.me/makerpotato179)
 - [Instagram](https://www.instagram.com/seoulFixKing/)
 - [Discord community](https://discord.gg/ecsApMn)
 

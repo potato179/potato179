@@ -1,3 +1,6 @@
+# 용현이엄마
+그런거 없습니다.
+
 # フトスト 폰팔이들아!
 ```console
 !!!이 문서는 폰팔이를 다루고 있습니다!!!
@@ -8,9 +11,7 @@
 !!!이 문서는 폰팔이를 다루고 있습니다!!!
 ```
 
-# DIMI Official Mobile Phone Repair & 폰팔이
-
-# 폰도 팔지만 개발도 해요!
+# 이 인간은 개발을 버렸습니다.
 [![GAY](https://img.youtube.com/vi/OF_5EKNX0Eg/0.jpg)](https://www.youtube.com/watch?v=OF_5EKNX0Eg)
 
 ## Connect with me

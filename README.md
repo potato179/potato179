@@ -10,6 +10,7 @@
 !!!이 문서는 폰팔이를 다루고 있습니다!!!
 !!!이 문서는 폰팔이를 다루고 있습니다!!!
 ```
+참고: 폰팔이 접었습니다.
 
 # 이 인간은 개발을 버렸습니다.
 [![GAY](https://img.youtube.com/vi/OF_5EKNX0Eg/0.jpg)](https://www.youtube.com/watch?v=OF_5EKNX0Eg)
